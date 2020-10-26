@@ -1,1 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+### Burger Builder
+## React/Redux burger ordering application
+React.js / Redux / React-Router / JavaScript
